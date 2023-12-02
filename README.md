@@ -16,7 +16,7 @@ Sometimes to help me troubleshoot, I'll also create a `sample.txt` file which is
 * an example made up by me to help me debug my code
 
 ### Running code
-For AOC 2022, I intend to mostly (if not exclusively) use Python. `XX` stands for the 0-padded day. `Y` stands for the part number.
+I intend to mostly (if not exclusively) use Python. `XX` stands for the 0-padded day. `Y` stands for the part number.
 
 #### Running Python files
 For Python files, `cd` into the appropriate day's folder and run `python <file>` (e.g. `cd dayXX && python dayXXpY.py`). All Python files will target 3.x.
